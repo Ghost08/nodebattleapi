@@ -18,7 +18,9 @@ API endpoints
 
   -query params king,location,type
 
------------------------------------------------------------------
+Note: Above mentioned endpoints are protected by bearer token authentication. Use below endpoints to acquire access token.
+
+--------------------------------------------------------------------------------------------------------------------------
 Additional endpoints for authentication
 
 1.Register user
